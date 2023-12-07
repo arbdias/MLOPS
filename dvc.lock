@@ -10,8 +10,8 @@ stages:
       nfiles: 10019
     - path: params.yaml
       hash: md5
-      md5: 5791c6499c4437ff087d69589560243c
-      size: 129
+      md5: 3628e8497c727d16a7fedeaaaa2946d2
+      size: 128
     - path: src
       hash: md5
       md5: 587e682dd54e9dc2c6c2c0859122d72e.dir
