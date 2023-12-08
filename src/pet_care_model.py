@@ -36,7 +36,7 @@ class Training:
         ])
 
         self.model.compile(
-            optimizer=optimizers.Adam(0.001),
+            optimizer=optimizers.Adam(0.01),
             loss='binary_crossentropy',
             metrics=['accuracy'],
         )
